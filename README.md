@@ -24,7 +24,7 @@
   
   ## Questions
 
-  If you have any questions about the project you can reach out to me via email or GitHub with the information below. 
+  If you have any questions about the project you can reach out to me via GitHub with the information below. 
 
   >GitHub : [sssBless](https://github.com/sssBless)
 
