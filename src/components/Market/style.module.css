@@ -1,0 +1,28 @@
+.Wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.SettingsContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.MainContent {
+  display: flex;
+  justify-content: space-between;
+}
+
+.FiltersContainer {
+  display: flex;
+  flex-direction: column;
+  padding: 0 0 3vw 0;
+  border-top: 0.15vw solid black;
+  border-right: 0.15vw solid black;
+  border-bottom: 0.15vw solid black;
+  width: 20%;
+  height: max-content;
+  border-top-right-radius: 0.2rem;
+  border-bottom-right-radius: 0.2rem;
+  margin: 1vw 0;
+}

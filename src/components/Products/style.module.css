@@ -1,0 +1,65 @@
+.Products {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 70%;
+  margin: 0 auto;
+}
+
+.Product {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 15vw;
+  height: max-content;
+  margin: 1vw;
+  padding: 1vw;
+  border: 0.15vw solid black;
+  border-radius: 0.25rem;
+}
+
+.Product img {
+  width: 6.5vw;
+  height: 6.5vw;
+  margin: 1vw auto;
+}
+
+.Description {
+  color: rgba(128, 128, 128, 0.6);
+  margin: 0.5vw 0;
+  font-size: 0.9rem;
+}
+
+.TextContent {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0.2vw 0;
+}
+
+.TextContent img {
+  margin: 0 0.2vw;
+  width: 1vw;
+  height: 1vw;
+}
+
+.High {
+  color: #34c924;
+}
+
+.Medium {
+  color: #ffcf40;
+}
+
+.Low {
+  color: red;
+}
+
+.EmptyMessage {
+  display: flex;
+  font-size: 2rem;
+  color: grey;
+  height: max-content;
+  padding: 2vw;
+  margin: 15% auto;
+}

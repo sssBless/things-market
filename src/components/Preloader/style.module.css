@@ -1,0 +1,17 @@
+.Preloader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10% auto;
+  width: 30vw;
+  height: 20vw;
+  border: 0.15vw solid grey;
+  border-radius: 0.5rem;
+  font-size: 1.5rem;
+}
+
+.Preloader img {
+  width: 2vw;
+  height: 2vw;
+  margin: 0 1vw;
+}

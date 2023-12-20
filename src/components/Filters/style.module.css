@@ -1,0 +1,7 @@
+.Filters {
+  margin: 0 0 0 3vw;
+}
+.Filter {
+  display: flex;
+  align-items: center;
+}

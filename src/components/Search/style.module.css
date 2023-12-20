@@ -1,0 +1,11 @@
+.Search {
+  border: 0.15vw solid black;
+  border-radius: 0.15rem;
+  width: 23vw;
+  margin: 0.4vw 10vw 0.4vw 3vw;
+  padding: 5px 5px 5px 40px;
+  background: url("../../images/search-magnifying-glass-svgrepo-com.svg")
+    no-repeat 3px 2px;
+  background-size: auto 80%;
+  outline: none;
+}
